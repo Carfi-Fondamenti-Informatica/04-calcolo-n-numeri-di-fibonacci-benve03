@@ -2,7 +2,6 @@
 using namespace std;
 int main() {
     int n=0, a=1, b=1, c=0;
-    cout <<"inserisci primo valore della sequenza"<< endl;
     cin >>n;
     if (n>=2){
         cout << a << endl;
